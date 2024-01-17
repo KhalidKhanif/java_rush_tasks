@@ -9,3 +9,13 @@ g
 7src/com/javarush/task/pro/task03/task0301/Solution.java,b\c\bc4ce4ce5ba6a0c4af68bc639750611dca3fdb1e
 g
 7src/com/javarush/task/pro/task03/task0302/Solution.java,e\1\e155d8039637b33a12e2ffdc182b6a2a1272a8f3
+g
+7src/com/javarush/task/pro/task03/task0303/Solution.java,2\6\26d104728b68ae38ce4622536e30c836de3200d5
+g
+7src/com/javarush/task/pro/task03/task0304/Solution.java,6\d\6d7f40fb11336d185e9730a3e71583be385a560c
+g
+7src/com/javarush/task/pro/task03/task0305/Solution.java,3\d\3df526e749cb6381a137f74e76d8ada37027ac47
+g
+7src/com/javarush/task/pro/task03/task0307/Solution.java,e\d\edf075824655f72bca05b6c5e63bb39292e5ebef
+g
+7src/com/javarush/task/pro/task03/task0308/Solution.java,b\7\b72e4d2eb7fca8981270de69b01e20262b062090

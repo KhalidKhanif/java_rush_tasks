@@ -1,7 +1,2 @@
 
-`
-java:S1854"ERemove this useless assignment to local variable "militaryCommissar".(Ð‚‹„ûÿÿÿÿ
-Q
-java:S1481"6Remove this unused "militaryCommissar" local variable.(Ð‚‹„ûÿÿÿÿ
-I
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+F	java:S106"+Replace this use of System.out by a logger.(ÓÞ¼Y8¡Œ«ôÐ1

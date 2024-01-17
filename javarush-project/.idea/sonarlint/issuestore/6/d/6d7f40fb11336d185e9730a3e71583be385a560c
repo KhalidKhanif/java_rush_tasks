@@ -1,0 +1,9 @@
+
+w
+java:S1450
+"URemove the "isHigh" field and declare it as a local variable in the relevant methods.(è„Æìøÿÿÿÿ8½â‘Ñ1
+v
+java:S1450"TRemove the "isLow" field and declare it as a local variable in the relevant methods.(Ó›Àúÿÿÿÿ8½â‘Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(ŞèÂ°8Ãâ‘Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(¯ÁÖŸ8Ãâ‘Ñ1
+G	java:S106"+Replace this use of System.out by a logger.(¿è¦‚8Äâ‘Ñ1
